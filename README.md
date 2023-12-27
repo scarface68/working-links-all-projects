@@ -13,4 +13,6 @@ Aesthetic spinning cube - https://aesthetic-spinning-cube.netlify.app/
 
 Clean full stack To-Do List app - https://mern-stack-todo-app-rglg.onrender.com/
 
+Background Removal tool - https://backgroundremovertool.vercel.app/
+
 To be continued....
