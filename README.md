@@ -19,6 +19,6 @@ Hacker New Clone - https://hacker-news-clone-6t9o.onrender.com/
 
 Shared Memories https://sharedmemories.vercel.app/
 
-Kanban Board https://kanban-kraftbase.vercel.app/home
+Kanban Board https://kanbanboard-saichandan.vercel.app/
 
 To be continued....
