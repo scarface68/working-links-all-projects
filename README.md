@@ -21,4 +21,8 @@ Shared Memories https://sharedmemories.vercel.app/
 
 Kanban Board https://kanbanboard-saichandan.vercel.app/
 
+Codeasy https://www.cs.codeasy.ai/
+
+Chatutr https://chattur.netlify.app/
+
 To be continued....
